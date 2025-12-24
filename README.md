@@ -1,3 +1,28 @@
+⌚ Digital Watch Application
+
+A sleek and functional Digital Watch application that displays the current time in real-time with high accuracy. The watch updates automatically every second and presents time in a clear HH:MM:SS format, offering a simple yet elegant user experience.
+
+This project demonstrates effective use of JavaScript date and time functions, setInterval, and DOM manipulation to build a real-time application. It’s ideal for understanding how live data updates work in front-end development.
+
+✨ Features
+
+Real-time clock updates
+
+Displays hours, minutes, and seconds
+
+Clean and responsive UI
+
+Lightweight and efficient
+
+🛠️ Tech Stack
+
+HTML
+
+CSS
+
+JavaScript
+
+This project is a great example of creating real-time web applications using vanilla JavaScript with a focus on simplicity and accuracy.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
